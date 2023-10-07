@@ -3,3 +3,4 @@ this is a simple app that explain how the sequelize do in node js this app inclu
 don't forget to change the ./config/config.js file, fill the field that including your username,pw,database, and dialect.
 
 hacktiv8-session12-ORM CRUD
+hacktiv8-session12-ORM Sequelize-associaton
